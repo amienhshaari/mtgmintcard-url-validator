@@ -1,0 +1,7 @@
+node_modules/
+
+csv/*
+result/*
+
+!csv/example.csv
+!result/example.csv
